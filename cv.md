@@ -26,3 +26,5 @@ console.log("testing");
 console.log("test");
 
 ```
+**Education:**
+- Novopolsky Agricultural and Economic College. Specialty technician-programmer
