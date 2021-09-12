@@ -12,3 +12,17 @@ My current goal is to successfully complete courses to acquire knowledge and ski
 - JavaScript (Basic)
 - GIT
 - Figma (Basic)
+**Code example:**
+```javascript
+function getMiddle(s)
+{
+  if (s.length % 2 === 0) {
+  return s.substring(s.length / 2 - 1, s.length / 2 +1);
+} else {
+  return s.substring(s.length / 2, s.length / 2 + 1);
+}
+}
+console.log("testing");
+console.log("test");
+
+```
