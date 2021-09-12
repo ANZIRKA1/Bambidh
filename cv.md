@@ -32,3 +32,7 @@ console.log("test");
 
 ### Education:
 - Novopolsky Agricultural and Economic College. Specialty technician-programmer
+
+### Languages:
+- Russian - Native
+- English - A1 (A2 in progress)
