@@ -1,1 +1,2 @@
-https://ANZIRKA1.github.io/rsschool-cv/index
+https://ANZIRKA1.github.io/rsschool-cv/index.html
+
