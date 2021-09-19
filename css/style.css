@@ -2,6 +2,7 @@
     background-color: lightgray;
     font-family: Kaisei Tokumin;
     font-style: extra-bold 800;
+    scroll-behavior: auto;
   }
 
   .position {
@@ -33,7 +34,33 @@
     position: relative;
     top:20px;
   }
-  
+
+  h1, h2{
+    color: black;
+  }
+
+  #Position{
+    color: white;
+  }
+
+  .menu {
+    position: relative;
+    display: flex;
+    right: 28px;
+  }
+  .menu li{
+    padding: 10px;
+  }
+
+  .menu li:hover{
+    color: white;
+  }
+
+  ul{
+    text-decoration: none;
+    list-style-type: none;
+  }
+
   #li1 {
 
     margin-left: -40px;
@@ -65,11 +92,18 @@
     padding-left: 5px;
   }
 
-  .delemiter1{
-    border: 0.5px solid white;
-    background-color: white;
+  a:hover{
+    color: black;
   }
 
+  .Click{
+    text-decoration: underline;
+    color: black;
+  }
+
+  .Click:hover{
+    color: white;
+  }
   .education{
     padding-top: 15px;
   }
@@ -85,11 +119,20 @@
     border-radius: 10px;
   }
   
+  #rectangle:hover{ 
+    border: 1px solid black;
+  }
+
   code{
     position: relative;
     left: 10px;
     color:white;
   }
+
+  #js:hover{
+    color:black;
+  }
+
   h3{
     color: white;
   }
@@ -149,6 +192,7 @@
     width: 1024px;
     bottom: 62px;
   }
+
   .links{
     display: flex;
     padding-top: 30px;
@@ -163,6 +207,9 @@
     top:25px;
   }
 
+  .Git:hover{
+    color: lightskyblue;
+  }
   #date{
     position: relative;
     top: 8px;
@@ -175,6 +222,9 @@
     left: 520px;
   }
 
+  .RSS:hover{
+    color: lightskyblue;
+  }
 
  
 
